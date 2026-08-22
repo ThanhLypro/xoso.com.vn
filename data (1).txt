@@ -1,0 +1,250 @@
+<table border=1>
+	<thead>
+		<tr>
+			<th>
+				<!DOCTYPE html>
+				<html lang=vi>
+					<head>
+						<meta charset=UTF-8>
+							<meta name=viewport content="width=device-width
+							</th>
+							<th> initial-scale=1</th>
+							<th> maximum-scale=5">
+								<title>XSMN 23/8/2026
+								</th>
+								<th> Xổ số Miền Nam ngày 23/08/2026
+								</title>
+								<meta name=description content="XSMN 23/8/2026
+								</th>
+								<th> Kết quả Xổ số Miền Nam ngày 23/08/2026. </th>
+								<th> ... click để Xem thêm KQXSMN trực tiếp lúc 16h10 hàng ngày">
+									<meta name=keywords content="xsmn 23/8/2026
+									</th>
+									<th>xsmn</th>
+									<th>xs mn 23/08/2026">
+										<link rel=canonical href=https://xoso.com.vn/xsmn-23-08-2026.html>
+											<meta name=COPYRIGHT content="Copyright (C) 2007 xoso.com.vn">
+												<meta name=RATING content=GENERAL>
+													<meta name=revisit-after content="1 days">
+														<meta name=DC.title content="XSMN 23/8/2026
+														</th>
+														<th> Xổ số Miền Nam ngày 23/08/2026">
+															<meta name=geo.region content=VN-HN>
+																<meta name=geo.placename content="ha noi">
+																	<meta name=geo.position content=21.0312486
+																	</th>
+																	<th>105.7823703>
+																		<meta name=ICBM content=21.0312486
+																		</th>
+																	</tr>
+																</thead>
+																<tbody>
+																	<tr>
+																		<td>{$(function()</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																	</tr>
+																	<tr>
+																		<td>{loadScript(`https://cdn.xoso.com.vn/js/loginslim.min.js?v=20250416`);loadStyle(`https://cdn.xoso.com.vn/css/loggedin.min.css?v=20251008`);});}</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																		<td>&nbsp</td>
+																	</tr>
+																	<tr>
+																		<td>else if(countRetryJQuery
+																			<maxRetryCheckJQuery)
+																			</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																			<td>&nbsp</td>
+																		</tr>
+																		<tr>
+																			<td>{setTimeout(checkJQueryReady</td>
+																			<td>50);}})();
+																			</script>
+																			<div id=_pop_login class="popup-modal popup-hidden">
+																				<div class=popup-wrapper>
+																					<div class=popup-body>
+																						<div class="popup-header text-center">
+																							<div class="popup-title uppercase">Đăng nhập vào Xoso.com.vn</div>
+																							<span class=close-popup data-popup-target=#_pop_login role=button tabindex=0 aria-label="close popup">
+																								<svg width=24 height=24 viewBox="-6 -6 24 24"
+																									xmlns=http://www.w3.org/2000/svg preserveAspectRatio=xMinYMin class="jam jam-close">
+																									<path d="m7.314 5.9 3.535-3.536A1 1 0 1 0 9.435.95L5.899 4.485 2.364.95A1 1 0 1 0 .95 2.364l3.535 3.535L.95 9.435a1 1 0 1 0 1.414 1.414l3.535-3.535 3.536 3.535a1 1 0 1 0 1.414-1.414L7.314 5.899z" />
+																								</svg>
+																							</span>
+																						</div>
+																						<div class="popup-content popup-height">
+																							<form action=/user/login.html class=block-login data-ajax-begin=xosologin.ajaxEvents.LoginOnBegin data-ajax-complete=xosologin.ajaxEvents.OnComplete data-ajax-failure=xosologin.ajaxEvents.OnFailure data-ajax-success=xosologin.ajaxEvents.LoginOnSuccess data-ajax=true data-ajax-method=Post id=loginForm method=post novalidate>
+																								<input name=__RequestVerificationToken type=hidden value=CfDJ8JK77XMh6KRGkwFeJotx9IiRG-lK4U4RfFry9hFnZwkkUlnRDFi0XKEj3IrvkOkTSQkq65n0hryPoVWMbUbbNaer1DUH03qvOqHonX8gAUzi_MFdiB0v1I5YW6-qqGvBOYJDOOYsjCzVgu7EQb1T_sQ>
+																									<div class=form-group>
+																										<div class="flex flex-gap-10">
+																											<div class=flex-col>
+																												<span class="login-default googlelogin">
+																													<svg width=20 height=20 viewBox="0 0 16 16"
+																														xmlns=http://www.w3.org/2000/svg fill=none>
+																														<path fill=#4285F4 d="M14.9 8.161c0-.476-.039-.954-.121-1.422h-6.64v2.695h3.802a3.24 3.24 0 0 1-1.407 2.127v1.75h2.269c1.332-1.22 2.097-3.02 2.097-5.15"></path>
+																														<path fill=#34A853 d="M8.14 15c1.898 0 3.499-.62 4.665-1.69l-2.268-1.749c-.631.427-1.446.669-2.395.669-1.836 0-3.393-1.232-3.952-2.888H1.85v1.803A7.04 7.04 0 0 0 8.14 15"></path>
+																														<path fill=#FBBC04 d="M4.187 9.342a4.17 4.17 0 0 1 0-2.68V4.859H1.849a6.97 6.97 0 0 0 0 6.286z"></path>
+																														<path fill=#EA4335 d="M8.14 3.77a3.84 3.84 0 0 1 2.7 1.05l2.01-1.999a6.8 6.8 0 0 0-4.71-1.82 7.04 7.04 0 0 0-6.29 3.858L4.186 6.66c.556-1.658 2.116-2.89 3.952-2.89z"></path>
+																													</svg>Đăng nhập bằng Google
+																												</span>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="form-text-info text-center">Khi bấm đăng nhập bạn đã đồng ý với 
+																										<a href=/tin-xo-so/dieu-khoan-su-dung-va-quy-uoc-su-dung-dich-vu-404-138076.html title="Điều khoản dịch vụ">Điều khoản dịch vụ</a> và 
+																										<a href=/tin-xo-so/chinh-sach-bao-mat-va-bao-ve-du-lieu-ca-nhan-tren-website-xoso-com-vn-404-147777.html title="Chính sách bảo mật và bảo vệ dữ liệu cá nhân">Chính sách bảo mật & bảo vệ dữ liệu cá nhân</a>.
+																									</div>
+																								</form>
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+																				<div id=_pop_login_pass_send class="popup-modal popup-hidden">
+																					<div class=popup-wrapper>
+																						<div class=popup-body>
+																							<div class="popup-header text-center">
+																								<div class="popup-title uppercase">Thông báo</div>
+																								<span class=close-popup data-popup-target=#_pop_login_pass_send role=button tabindex=0 aria-label="close popup">
+																									<svg width=24 height=24 viewBox="-6 -6 24 24"
+																										xmlns=http://www.w3.org/2000/svg preserveAspectRatio=xMinYMin class="jam jam-close">
+																										<path d="m7.314 5.9 3.535-3.536A1 1 0 1 0 9.435.95L5.899 4.485 2.364.95A1 1 0 1 0 .95 2.364l3.535 3.535L.95 9.435a1 1 0 1 0 1.414 1.414l3.535-3.535 3.536 3.535a1 1 0 1 0 1.414-1.414L7.314 5.899z" />
+																									</svg>
+																								</span>
+																							</div>
+																							<div class="popup-content popup-height">
+																								<form>
+																									<div class="form-group text-center">
+																										<p>
+																											<svg width=32 height=32 viewBox="0 0 16 16"
+																												xmlns=http://www.w3.org/2000/svg fill=none stroke=#37b349 stroke-linecap=round stroke-linejoin=round stroke-width=1.5>
+																												<path d="M14.25 8.75c-.5 2.5-2.385 4.854-5.03 5.38A6.25 6.25 0 0 1 3.373 3.798C5.187 1.8 8.25 1.25 10.75 2.25" />
+																												<path d="m5.75 7.75 2.5 2.5 6-6.5" />
+																											</svg>
+																											<p>Bạn đã lấy lại mật khẩu thành công
+																											</td>
+																											<td> vui lòng kiểm tra địa chỉ Email để đăng nhập tài khoản.
+																											</div>
+																											<div class=form-group>
+																												<span data-popup-target=#_pop_login class="btn btn-danger btn-full uppercase" role=button tabindex=0 aria-label="Mở popup">Quay về đăng nhập</span>
+																											</div>
+																										</form>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						<input type=hidden id=bdUsePay value=1>
+																							<script>var isResultLive=true;var lotteryGroupId=2;var mbHour=18
+																							</td>
+																							<td>mtHour=17</td>
+																							<td>mnHour=16;var mbMinute=15;var rootList='https://live.xoso.com.vn/lotteryLive/';var root=rootList.split(';')[0];var appKey='';var headingTag='h1';var interval;var timeInter=1357*4;var fromPageView='XSMN TT';interval=setInterval("LiveTNV2("+lotteryGroupId+"</td>
+																							<td> '"+appKey+"'</td>
+																							<td> '"+headingTag+"')"</td>
+																							<td>timeInter);function initLive(){LiveTNV2(lotteryGroupId</td>
+																							<td>appKey</td>
+																							<td>headingTag);}</td>
+																						</tr>
+																						<tr>
+																							<td>var timeinterval;var deadline=getHNTime();var currHour=deadline.getHours();var currMinute=deadline.getMinutes();if(currHour
+																								<mnHour||(currHour==mnHour&&currMinute
+																									<mbMinute)){deadline.setHours(mnHour);deadline.setMinutes(mbMinute);deadline.setSeconds(0);initializeClock(deadline);}
+																									</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																								</tr>
+																								<tr>
+																									<td>function getTimeRemaining(endtime){var t=Date.parse(endtime)-Date.parse(getHNTime());var seconds=Math.floor((t/1000)%60);var minutes=Math.floor((t/1000/60)%60);var hours=Math.floor((t/(1000*60*60))%24);var days=Math.floor(t/(1000*60*60*24));return{'total':t</td>
+																									<td>'days':days</td>
+																									<td>'hours':hours</td>
+																									<td>'minutes':minutes</td>
+																									<td>'seconds':seconds};}</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																								</tr>
+																								<tr>
+																									<td>function initializeClock(){if(typeof $==='undefined'||$===null){console.log("jQuery loading");window.setTimeout("initializeClock()"</td>
+																									<td>500);return;}</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																									<td>&nbsp</td>
+																								</tr>
+																								<tr>
+																									<td>if(currHour
+																										<mnHour||(currHour==mnHour&&currMinute
+																											<mbMinute)){$('#countdown').show();}
+																											</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																										</tr>
+																										<tr>
+																											<td>updateClock();timeinterval=setInterval(updateClock</td>
+																											<td>1000);}</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																											<td>&nbsp</td>
+																										</tr>
+																										<tr>
+																											<td>function updateClock(){var t=getTimeRemaining(deadline);var hoursSpan=$('#countdown_hours_num');var minutesSpan=$('#countdown_minutes_num');var secondsSpan=$('#countdown_seconds_num');hoursSpan.html(('0'+t.hours).slice(-2));minutesSpan.html(('0'+t.minutes).slice(-2));secondsSpan.html(('0'+t.seconds).slice(-2));if(t.total<=0){clearInterval(timeinterval);$('#countdown').css("display"
+																											</td>
+																											<td>none");}else{var cdate=getHNTime();var cHour=cdate.getHours();var cMinute=cdate.getMinutes();if(lotteryGroupId==1){if(cHour>mbHour||(cHour==mbHour&&cMinute>=mbMinute)){clearInterval(timeinterval);$('#countdown').css("display</td>
+																											<td>none");}}else if(lotteryGroupId==2){if(cHour>mnHour||(cHour==mnHour&&cMinute>=mbMinute)){clearInterval(timeinterval);$('#countdown').css("display</td>
+																											<td>none");}}else{if(cHour>mtHour||(cHour==mtHour&&cMinute>=mbMinute)){clearInterval(timeinterval);$('#countdown').css("display</td>
+																											<td>none");}}}}
+																											</script>
+																											<script onload=initLive() src="https://cdn.xoso.com.vn/js/lottery_live_all.min.js?v=20263006" async></script>
+																										</td>
+																										<td>&nbsp</td>
+																										<td>&nbsp</td>
+																										<td>&nbsp</td>
+																										<td>&nbsp</td>
+																										<td>&nbsp</td>
+																									</tr>
+																								</tbody>
+																							</table>
